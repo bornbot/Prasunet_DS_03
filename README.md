@@ -85,4 +85,4 @@ These results help us understand how well the model performs in predicting custo
 Contributions to this project are welcome! If you have suggestions for improvements or new features, please create an issue or submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](#license) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
